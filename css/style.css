@@ -82,5 +82,19 @@ margin:0 auto 0 auto;
     border-top: 5px solid red;
     margin-top:20px;
     margin-left:auto;
+    text-decoration-style: none;
 
+}
+
+.footer-link {
+text-decoration:none;
+color:red;
+}
+
+.footer-link:hover {
+color:#e8e8e8;
+}
+
+.web-link{
+color:#00334e;
 }
